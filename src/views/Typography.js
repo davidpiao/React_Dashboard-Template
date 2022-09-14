@@ -51,6 +51,7 @@ function Typography() {
                     The Life of Paper Dashboard
                   </h3>
                 </div>
+                </div>
                 <div className="typography-line">
                   <h4>
                     <span>Header 4</span>
